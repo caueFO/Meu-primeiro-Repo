@@ -1,0 +1,29 @@
+.bloco1{
+    background-color:#bd18ff;
+    width: 500px;
+    height: 500px;
+
+}
+.bloco2{
+  background-color:#2e065c;
+  width: 250px;
+  height: 250px;
+
+}
+.paragrafo1{
+    color: #ffffff;
+    background-color: #d978ec;
+    font-size: 25px;
+    font-family: monospace;
+    
+}
+.bloco3{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(178, 145, 255);
+}
+.bloco4{
+    height: 250px;
+    width: 75%;
+    background-color: #4c0d94;
+}
